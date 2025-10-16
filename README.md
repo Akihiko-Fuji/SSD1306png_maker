@@ -70,4 +70,4 @@ python ssd1309pngmaker.py \
 
 ## ライセンス
 
-このリポジトリは [MIT License](LICENSE) の下で提供されます。
+このリポジトリは Apache-2.0 license の下で提供されます。
